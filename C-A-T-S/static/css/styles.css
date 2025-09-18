@@ -7,7 +7,7 @@
     --yellow-dark: #e0a800;
     --text: #050505;
     --muted: #6c757d;
-    --card-bg: rgba(21, 21, 22, 0.8);
+    --card-bg: rgba(193, 193, 214, 0.8);
     --border-color: #dee2e6;
 }
 
@@ -150,4 +150,5 @@ body[data-page="home"] .card.communication { color: #ffd4e5; text-shadow: 1px 1p
 .exercism-card, .codewars-card { background: #fff; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); text-align: center; }
 .doubt-card { border: 1px solid var(--border-color); border-radius: 12px; padding: 15px; }
 .doubt-card .answer { background-color: #f8f9fa; border-top: 1px dashed var(--border-color); margin-top: 10px; padding: 10px; }
+
 .doubt-meta { font-size: 0.8em; color: var(--muted); margin-top: 10px; }
