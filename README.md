@@ -1,6 +1,3 @@
-Of course! A great README is essential for any project. It acts as the front page, explaining what your project does and how to use it.
-
-Based on the files and features of your Class Performance Tracking System, here is a comprehensive and professional README file. Just copy the text below and save it as README.md in the main folder of your project.
 
 Class Performance Tracking System
 A comprehensive web application built with Flask and JavaScript to manage student attendance and homework for a classroom setting.
